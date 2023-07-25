@@ -1,3 +1,11 @@
+React Weather App, with Context, AXIOS, useReducer, useContext, useEffect, useState A React weather app where the user can get real-time weather information for any city in India
+
+![Screenshot (978)](https://github.com/sandesh300/Weather-App-React/assets/92014891/8c42beb4-32cb-43a7-85f9-3cbc8d21ed50)
+
+![Screenshot (979)](https://github.com/sandesh300/Weather-App-React/assets/92014891/86b5dcbc-a864-45cb-9b69-77b141f47f9e)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
