@@ -1,5 +1,7 @@
-React Weather App, with Context, AXIOS, useReducer, useContext, useEffect, useState A React weather app where the user can get real-time weather information for any city in India
 
+Create a dynamic weather app with React, Axios, and a weather API. Harnessing the power of React's components and state management, the app will seamlessly display real-time weather information. Axios will facilitate smooth data retrieval from the chosen weather API, ensuring accurate and up-to-date forecasts. With an intuitive user interface, users can effortlessly search for locations and receive current weather conditions, temperature, and more. This powerful combination of technologies will yield a responsive and visually appealing weather app, enhancing user experience by providing timely and relevant weather updates.
+
+   
 ![Screenshot (978)](https://github.com/sandesh300/Weather-App-React/assets/92014891/8c42beb4-32cb-43a7-85f9-3cbc8d21ed50)
 
 ![Screenshot (979)](https://github.com/sandesh300/Weather-App-React/assets/92014891/86b5dcbc-a864-45cb-9b69-77b141f47f9e)
